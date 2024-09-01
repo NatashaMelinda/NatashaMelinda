@@ -55,6 +55,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/natashamelinda/natashamelinda/snake.yml" alt="Snake animation" />
 
 ###
