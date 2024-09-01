@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Natasha Melinda, and I'm a passionate software development student from Pontianak, Indonesia.</h3>
+<h2 align="center">Hi 👋! My name is Natasha Melinda, and I'm a passionate software development student from Pontianak, Indonesia.</h2>
 
 ###
 
