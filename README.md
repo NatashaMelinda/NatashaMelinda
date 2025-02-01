@@ -61,7 +61,7 @@
 <p align="center" style="font-family: Arial, sans-serif; color: #666; font-size: 16px;">Explore my work and projects through my online portfolio. Check out the link below!</p>
 
 <div align="center">
-  <a href="https://natashamelinda.github.io/portfolio-natasha/" target="_blank" 
+  <a href="https://natashamelinda.github.io/portfolio-natasha/" target="blank" 
      style="background-color: #1E90FF; color: white; font-size: 18px; padding: 10px 20px; text-decoration: none; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
      Visit My Portfolio
   </a>
