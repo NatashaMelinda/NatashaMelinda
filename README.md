@@ -61,7 +61,7 @@
 <p align="center" style="font-family: Arial, sans-serif; color: #666; font-size: 16px;">Explore my work and projects through my online portfolio. Check out the link below!</p>
 
 <div align="center">
-  <a href="https://natashamelinda.github.io/portfolio-natasha/" target="_blank">
+  <a href="https://natashamelinda.github.io/portofolio-natasha/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
